@@ -1,0 +1,11 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#07111F"/>
+  <circle cx="150" cy="80" r="330" fill="#40D8FF" opacity="0.16"/>
+  <circle cx="1000" cy="90" r="360" fill="#9D7CFF" opacity="0.15"/>
+  <path d="M136 150L270 430H214L136 276L58 430H2L136 150Z" fill="url(#g)" transform="translate(75 20)"/>
+  <text x="390" y="245" fill="#F5FAFF" font-family="Arial, sans-serif" font-size="92" font-weight="900" letter-spacing="10">APEX</text>
+  <text x="396" y="310" fill="#40D8FF" font-family="Arial, sans-serif" font-size="34" font-weight="700" letter-spacing="14">ACADEMY</text>
+  <text x="390" y="390" fill="#D9E6F7" font-family="Arial, sans-serif" font-size="42" font-weight="700">No administramos infraestructura.</text>
+  <text x="390" y="445" fill="#21FFC2" font-family="Arial, sans-serif" font-size="42" font-weight="700">Diseñamos el futuro del negocio.</text>
+  <defs><linearGradient id="g" x1="70" y1="150" x2="270" y2="430" gradientUnits="userSpaceOnUse"><stop stop-color="#40D8FF"/><stop offset="1" stop-color="#21FFC2"/></linearGradient></defs>
+</svg>
